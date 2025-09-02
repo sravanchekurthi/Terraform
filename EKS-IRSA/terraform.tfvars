@@ -1,0 +1,5 @@
+cluster_name         = "my-eks-cluster"
+region               = "us-west-2"
+namespace            = "app-namespace"
+service_account_name = "app-sa"
+s3_bucket_name       = "my-app-bucket"
